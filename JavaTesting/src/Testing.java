@@ -6,7 +6,7 @@ public class Testing {
 
 	public static void main(String[] args) {
 		String string = "asd_sdfser_xvdrg";
-
+// testing 1
 		String new_String = getSubString(string);
 	}
 	
